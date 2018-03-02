@@ -19,7 +19,7 @@ pause(1)
 % fprintf(pump_obj,'STP')
 % fprintf(pump_obj,'RAT 20 MM')
 % fprintf(pump_obj,'RUN')
-% pause(5)
+% pause(100)
 tic
 for i=1:100
     
